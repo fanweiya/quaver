@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
-    "less": "^2.7.2",
+    "less": "^3.0.2",
     "less-loader": "^2.2.3",
     "pug": "^2.0.0-beta11",
     "pug-loader": "^2.3.0",
